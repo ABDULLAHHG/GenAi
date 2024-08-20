@@ -1,1 +1,12 @@
 .env
+.ipynb_checkpoints/*
+.ipynb_checkpoints/
+
+GenAi/*
+GenAi
+
+wandb/*
+wandb
+
+tmp_trainer/*
+tmp_trainer
