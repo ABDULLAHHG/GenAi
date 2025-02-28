@@ -10,3 +10,5 @@ wandb
 
 tmp_trainer/*
 tmp_trainer
+private-network/utils/__pycache__/*
+private-network/utils/__pycache__
